@@ -6,7 +6,7 @@ trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # Capture a video from webcam
 #webcam = cv2.VideoCapture(0, cv2.CAP_DSHOW)
-webcam = cv2.VideoCapture('giphy.gif')
+webcam = cv2.VideoCapture('gal.gif')
 
 # Iterate forever over frames
 while True:
