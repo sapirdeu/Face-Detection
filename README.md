@@ -1,4 +1,5 @@
 # Face-Detection
 
 Results:
-![Test Image 1](resultsIMG.JPG)
+![](resultsIMG.JPG)
+![](resultsVideo.gif)
