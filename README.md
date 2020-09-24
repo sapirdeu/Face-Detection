@@ -1,5 +1,5 @@
 # Face-Detection
 
 Results:
-![](resultsIMG.JPG)
+![](resultsIMG.JPG = =600x346)
 ![](resultsVideo.gif)
