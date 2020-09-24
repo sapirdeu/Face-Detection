@@ -1,5 +1,6 @@
 # Face-Detection
 
-Results:
-![](resultsIMG.JPG = =600x346)
+## Results
+
 ![](resultsVideo.gif)
+<img src="https://github.com/sapirdeu/Face-Detection/blob/master/resultsIMG.JPG" alt="alt" width="600" height="346">
