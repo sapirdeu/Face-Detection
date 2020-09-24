@@ -20,7 +20,7 @@ for (x, y, w, h) in face_coordinates:
     cv2.rectangle(img, (x,y), (x+w, y+h), (0, 255, 0), 2)
 
 # Display the image with the faces spotted
-cv2.imshow('Robert Downey Jr', img)
+cv2.imshow('Donald and Melania Trump', img)
 
 # wait here in the code and listen for a key press
 cv2.waitKey()
